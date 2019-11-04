@@ -43,7 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SimpleTreeView.cs" />
+    <Compile Include="TreeViewGenerator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SimpleTreeView.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
