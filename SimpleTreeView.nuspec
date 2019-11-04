@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SimpleTreeViewLib</id>
+    <version>1.0.1</version>
+    <title>SimpleTreeView</title>
+    <authors>esaud17</authors>
+    <owners>esaud17</owners>
+    <licenseUrl>https://github.com/Esaud17/SimpleTreeView.git</licenseUrl>
+    <projectUrl>https://github.com/Esaud17/SimpleTreeView.git</projectUrl>
+    <iconUrl>https://github.com/Esaud17/SimpleTreeView.git</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SimpleTreeView</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>.NETFramework4.5</tags>
+  </metadata>
+</package>

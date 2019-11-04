@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace SimpleTreeView
 {
-    public static class SimpleTreeView
+    public class SimpleTreeView
     {
         public static void CreateNode(TreeNodeCollection nodes ,string key, string[] direcciones,  char delimiter = '/')
         {
