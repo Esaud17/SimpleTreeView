@@ -1,6 +1,5 @@
 C:\Users\OERL90\source\repos\TreeViewDemo\SimpleTreeView\bin\Release\SimpleTreeView.dll
 C:\Users\OERL90\source\repos\TreeViewDemo\SimpleTreeView\bin\Release\SimpleTreeView.pdb
-C:\Users\OERL90\source\repos\TreeViewDemo\SimpleTreeView\obj\Release\SimpleTreeView.csprojAssemblyReference.cache
 C:\Users\OERL90\source\repos\TreeViewDemo\SimpleTreeView\obj\Release\SimpleTreeView.csproj.CoreCompileInputs.cache
 C:\Users\OERL90\source\repos\TreeViewDemo\SimpleTreeView\obj\Release\SimpleTreeView.dll
 C:\Users\OERL90\source\repos\TreeViewDemo\SimpleTreeView\obj\Release\SimpleTreeView.pdb

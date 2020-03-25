@@ -3,9 +3,9 @@ using System.Windows.Forms;
 
 namespace SimpleTreeView
 {
-    public class TreeViewGenerator
+    public static class TreeNodeCollectionMap
     {
-        public static void CreateNode(TreeNodeCollection nodes ,string key, string[] direcciones,  char delimiter = '/')
+        public static void CreateNode(this TreeNodeCollection nodes ,string key, string[] direcciones,  char delimiter = '/')
         {
             TreeNode sistema = new TreeNode(key);
             sistema.Name = key;

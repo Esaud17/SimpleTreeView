@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SimpleTreeViewLib</id>
-    <version>1.1.4</version>
+    <version>1.1.5</version>
     <title>SimpleTreeView</title>
     <authors>esaud17</authors>
     <owners>esaud17</owners>
@@ -10,9 +10,27 @@
     <projectUrl>https://github.com/Esaud17/SimpleTreeView.git</projectUrl>
     <iconUrl>https://github.com/Esaud17/SimpleTreeView.git</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>SimpleTreeView</description>
+    <description>
+      create a easy lits of nodes on treeView, this library  string to node arrays
+
+      TreeView view = new TreeView();
+      string key = "Root";
+
+      string[] direcciones = {
+      "/erp/rrhh",
+      "/erp/empleados/sistema",
+      "/erp/empleados/artes",
+      "/erp/seguros/artes",
+      "/erp/empleados/artes/valores",
+      "/video/otros",
+      "/video/"
+      };
+
+      //compile 
+      view.Nodes.CreateNode( key, direcciones);
+    </description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright 2019</copyright>
+    <copyright>Copyright 2020</copyright>
     <tags>.NETFramework4.5</tags>
   </metadata>
 </package>
